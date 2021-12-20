@@ -1,4 +1,4 @@
-!/usr/bin/env bash
+#!/usr/bin/env bash
 #
 # This script depends on 'curl' so make sure it's installed.
 #
